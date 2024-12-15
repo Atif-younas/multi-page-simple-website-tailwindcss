@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navbar{
+  background-color: red;
+  color: white;
+  padding: 10px;
+  display: flex;
+  justify-content: space-evenly;
+}
